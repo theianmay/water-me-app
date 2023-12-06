@@ -1,3 +1,6 @@
+This app is the result of my work towards this project/part of the 'Android Basics in Kotlin' course and is still in progress. I used starter code provided by Google Developer Training resources and then wrote additional code in Kotlin to add app functionality. You can find the course at this link: https://developer.android.com/courses/android-basics-kotlin/course
+==================================
+
 Water Me - Starter Code
 ==================================
 
